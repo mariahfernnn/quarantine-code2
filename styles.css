@@ -24,3 +24,11 @@ p em {
 .status-update {
   color: yellow;
 }
+
+footer {
+  color: red;
+}
+
+footer p {
+  color: green;
+}
